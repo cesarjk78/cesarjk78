@@ -1,4 +1,4 @@
-<img src="images/bannerbochi.png" style="max-width: 100%; height: auto;" alt="Banner">
+<img src="images/pedrito.png" style="max-width: 100%; height: auto;" alt="Banner">
 
 <h2 title="Thebochis"> Hola soy Cesar!</h2>
 
@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<img align="right" alt="Foto" src="images/yuuka track.png" width="300" />
+<img align="right" alt="Foto" src="images/pedritoarbol.png" width="300" />
 
 <h3>Sobre mí</h3>
 <p>👨🏽‍💻 Desarrollador Frontend Junior, egresado de Diseño y Desarrollo de Software.</p>
@@ -33,7 +33,7 @@
 <br /><br />
 
 <!-- 📊 NUEVAS ESTADÍSTICAS EN TABLA -->
-<h3 align="center">My Statistics:</h3>
+<h3 align="center">Mis Estadisticas:</h3>
 
 <p align="center">
 <table align="center">
