@@ -5,21 +5,18 @@
 <a href="">
   <img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
-<a href="">
-  <img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="">
-  <img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
+
 
 <br />
 <br />
 
 <img align="right" alt="Foto" src="images/yuuka track.png" width="300" />
 
-<h3>Sobre Mí</h3>
-<p>👨🏽‍💻 Actualmente trabajando en un portafolio</p>
-<p>📫 Correo electronico <a href="mailto:cesar.gonzales.t@tecsup.edu.pe">cesar.gonzales.t@tecsup.edu.pe</a></p>
+<h3>Sobre mí</h3>
+<p>👨🏽‍💻 Desarrollador Frontend Junior, egresado de Diseño y Desarrollo de Software.</p>
+<p>💻 Experiencia en proyectos académicos web y móviles usando HTML, CSS y JavaScript.</p>
+<p>🔧 Manejo de control de versiones con Git y GitHub.</p>
+<p>📫 Correo electrónico: <a href="mailto:cesar.gonzales.t@tecsup.edu.pe">cesar.gonzales.t@tecsup.edu.pe</a></p>
 
 <br />
 
