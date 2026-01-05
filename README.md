@@ -2,10 +2,6 @@
 
 <h2 title="Thebochis"> Hola soy Cesar!</h2>
 
-<a href="">
-  <img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-
 
 <br />
 <br />
