@@ -12,7 +12,7 @@
 <p>👨🏽‍💻 Desarrollador Frontend Junior, egresado de Diseño y Desarrollo de Software.</p>
 <p>💻 Experiencia en proyectos académicos web y móviles usando HTML, CSS y JavaScript.</p>
 <p>🔧 Manejo de control de versiones con Git y GitHub.</p>
-<p>📫 Correo electrónico: <a href="mailto:cesar.gonzales.t@tecsup.edu.pe">cesar.gonzales.t@tecsup.edu.pe</a></p>
+<p>📫 Correo electrónico: <a href="mailto:cesar.rafael.gonzales.tucto@gmail.com">cesar.rafael.gonzales.tucto@gmail.com</a></p>
 
 <br />
 
