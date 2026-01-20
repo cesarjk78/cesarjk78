@@ -25,11 +25,12 @@
 
 <br />
 
-<!-- 🔥 STREAK ORIGINAL (SE QUEDA) -->
+<!-- 🔥 STREAK -->
+<p align="center">
 <img align="center"
      src="https://github-readme-streak-stats.herokuapp.com/?user=cesarjk78&count_private=true&theme=radical"
      alt="Bochi's Streak Stats" />
-
+</p>
 <br /><br />
 
 <!-- 📊 NUEVAS ESTADÍSTICAS EN TABLA -->
